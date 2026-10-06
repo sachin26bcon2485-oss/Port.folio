@@ -1,0 +1,16 @@
+├── index.html
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+├── README.md
+├── public/
+│   └── standalone-portfolio.html
+└── src/
+    ├── main.tsx
+    ├── index.css
+    ├── App.tsx
+    ├── data/
+    │   └── portfolioData.ts
+    └── components/
+        ├── DeveloperVisual.tsx
+        └── ProjectModal.tsx
